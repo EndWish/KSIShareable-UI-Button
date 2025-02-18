@@ -1,0 +1,15 @@
+{
+  "name": "com.kimsiin.ksishareable.ui.button",
+  "version": "1.0.0",
+  "displayName": "KSIShareable-UI-Button",
+  "description": "A package that provides Button UI as a submodule of KSIShareable.",
+  "unity": "2022.3",
+  "dependencies": {
+    "com.unity.textmeshpro": "3.0.6"
+  },
+
+  "author": {
+    "name": "SiIn Kim",
+    "email": "ksi8548@gmail.com"
+  }
+}
